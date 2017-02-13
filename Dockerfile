@@ -14,5 +14,5 @@ rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt /tmp/
 
-RUN pip install --upgrade pip && \
-    pip install --requirement /tmp/requirements.txt
+RUN pip3 install --upgrade pip && \
+    pip3 install --requirement /tmp/requirements.txt
