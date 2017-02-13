@@ -1,4 +1,5 @@
 Flask
+cherrypy
 uwsgi
 flask-restplus
 flask-pymongo
