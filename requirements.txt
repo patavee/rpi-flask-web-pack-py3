@@ -7,8 +7,8 @@ pytz
 dateutils
 pyyaml
 pykwalify
-twilio
 marshmallow
 requests
 celery
 redis
+pyserial
